@@ -1,4 +1,4 @@
-#### Boids: Flocks, Herds, and Schools
+### Boids: Flocks, Herds, and Schools
 
 Last update: April 2020.
 
